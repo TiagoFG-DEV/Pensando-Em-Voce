@@ -1,2 +1,2 @@
 # PensandoEmVoce
-Uma declaração da pessoa que um dia foi a mais importante para mim.
+Uma declaração para a pessoa que um dia foi a mais importante para mim.
