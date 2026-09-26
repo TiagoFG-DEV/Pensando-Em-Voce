@@ -1,2 +1,2 @@
 # PensandoEmVoce
-Código feito para me declarar a pessoa mais especial de todas.
+Uma declaração da pessoa que um dia foi a mais importante para mim.
